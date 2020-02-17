@@ -6,7 +6,7 @@
 
 ### 맡은 파트
 * 관리자 - 전체리뷰 관리(게시판), 신고리뷰 관리(게시판), 방문자 관리(Session Listener, 그래프)
-* 하는 중~~
+* 서비스 화면 - 댓글에 답글, 알림 (조회, 등록, 수정, 삭제)
 
 ### 사용 기술 
 * Frontend : JavaScript, jQuery, Ajax, HTML, CSS
