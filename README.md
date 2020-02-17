@@ -5,15 +5,15 @@
 * 기존의 식당 검색 사이트와 전체적인 구조는 유사하지만, 식당이 운영하는 시간대 검색에 중점을 둔 웹 사이트입니다.
 
 ### 맡은 파트
-* 관리자 - 전체리뷰 관리(게시판), 신고리뷰 관리(게시판), 방문자 관리(Session Listener, 그래프)
-* 서비스 화면 - 댓글에 답글, 알림 (조회, 등록, 수정, 삭제)
+* 관리자 페이지 - 전체리뷰 관리(게시판), 신고리뷰 관리(게시판), 방문자 관리(Session Listener, 그래프)
+* 서비스 페이지 - 댓글에 답글, 알림 (조회, 등록, 수정, 삭제)
 
 ### 사용 기술 
 * Frontend : JavaScript, jQuery, Ajax, HTML, CSS
 * Backend : Java, Spring, Apache Tomcat
 * DBMS : MySQL
 
-<https://github.com/limsg1234/java-program.git>
+자세히 보기 : <https://github.com/limsg1234/java-program.git>
 
 
 ## 비트캠프 이수 교육
