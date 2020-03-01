@@ -33,7 +33,7 @@
 * Python
 * DBMS : MySQL
 
-자세히 보기 : 
+자세히 보기 : https://github.com/limsg1234/python-project.git
 
 ## 교육 프로그램 - 비트캠프
 
